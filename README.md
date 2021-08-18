@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jan Toušek and I'm a software developer. I'm currently studying Czech Technical University in Prague, Faculty of Information Technology.
+My name is Jan Toušek and I'm a software developer. I'm currently studying Czech Technical University in Prague, Faculty of Information Technology. ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)	
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -15,6 +15,7 @@ My name is Jan Toušek and I'm a software developer. I'm currently studying Czec
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tousekjan)](https://github.com/anuraghazra/github-readme-stats)
 
+Find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jan-tou%C5%A1ek-bb901a1b2/)
 <!--
 **tousekjan/tousekjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
