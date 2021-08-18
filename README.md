@@ -16,6 +16,10 @@ My name is Jan Toušek and I'm a software developer. I'm currently studying Czec
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tousekjan)](https://github.com/anuraghazra/github-readme-stats)
 
 Find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jan-tou%C5%A1ek-bb901a1b2/)
+
+[![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/26005077/129870946-ccbc97bb-4ecd-472d-865c-073c04dadeb3.png)](https://www.credly.com/badges/489e078e-38c3-4ae0-8238-b429f69e0fec/public_url)
+
+
 <!--
 **tousekjan/tousekjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
