@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jan Toušek and I'm a software developer. I'm currently studying Czech Technical University in Prague, Faculty of Information Technology. ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)	
+My name is Jan Toušek and I'm a software developer. I'm currently studying Czech Technical University in Prague, Faculty of Information Technology.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
