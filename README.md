@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/26005077/130071796-c85e85e8-6d27-4bf5-bdd5-39706a5c84ab.gif" width="30px">
 
 My name is Jan Toušek and I'm a software developer. I'm currently studying Czech Technical University in Prague, Faculty of Information Technology.
 
