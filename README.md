@@ -11,7 +11,7 @@ My name is Jan Toušek and I'm a software developer. I'm currently studying Czec
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Microsoft_SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tousekjan)](https://github.com/anuraghazra/github-readme-stats)
 
