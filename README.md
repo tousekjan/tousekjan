@@ -1,6 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/26005077/130071796-c85e85e8-6d27-4bf5-bdd5-39706a5c84ab.gif" width="30px">
 
-My name is Jan Toušek and I'm a software developer. I'm currently studying Czech Technical University in Prague, Faculty of Information Technology.
+My name is Jan Toušek and I'm a software developer mainly working in .NET.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -17,8 +17,10 @@ My name is Jan Toušek and I'm a software developer. I'm currently studying Czec
 
 Find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jan-tou%C5%A1ek-bb901a1b2/)
 
-[![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/26005077/129870946-ccbc97bb-4ecd-472d-865c-073c04dadeb3.png)](https://www.credly.com/badges/489e078e-38c3-4ae0-8238-b429f69e0fec/public_url)
 
+[![microsoft-certified-azure-developer-associate](https://user-images.githubusercontent.com/26005077/233377182-3c93199f-880a-4b0f-b1f6-e7545a18527d.png)](https://www.credly.com/earner/earned/badge/e902a7ee-bcfb-46d4-ba53-6e0145c4f618)
+
+[![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/26005077/233377167-14ab571f-e91b-43dc-b5f3-0403054d1f20.png)](https://www.credly.com/earner/earned/badge/489e078e-38c3-4ae0-8238-b429f69e0fec)
 
 <!--
 **tousekjan/tousekjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
